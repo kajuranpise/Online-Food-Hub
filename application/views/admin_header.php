@@ -29,7 +29,7 @@
                 <p><?=anchor('admin_home/online_order_display_open','Online Order Display')?></p>
             </div>
         </li>
-    	<li><a href="#"><b>Login</b></a></li>
+    	<li><a href="#"><b>Logout</b></a></li>
 
     </ul></div>
   </div>
